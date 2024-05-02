@@ -3,7 +3,6 @@
 <head>
     <title>Grass</title>
     <style>
-        /* Styling the page and centering content */
         body {
             background-color: Pink;
             text-align: center;
@@ -13,10 +12,10 @@
             background-color: Pink;
         }
         img {
-            margin: 20px auto; /* Adds a margin and centers the image */
+            margin: 20px auto;
         }
         button {
-            margin-top: 20px; /* Adds some space between the button and other elements */
+            margin-top: 20px;
         }
     </style>
 </head>
