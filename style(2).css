@@ -37,11 +37,11 @@ body {
 
 
 .topnav a:hover {
-  background-color: ##00d4ff;
+  background-color: #58f1ea;
   color: black;
 }
 
 .topnav a.active {
-  background-color: ddd;
+  background-color: #12ff00;
   color: white;
 }
