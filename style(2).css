@@ -50,3 +50,10 @@ div {
   background-color: #12ff00;
   color: white;
 }
+
+
+.center {
+  margin: auto;
+  width: 20%;
+  padding: 10px;
+}
