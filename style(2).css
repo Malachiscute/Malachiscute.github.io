@@ -19,6 +19,11 @@ body {
   background-image: linear-gradient(90deg, green, purple);
 }
 
+div {
+  text-align: center;
+
+}
+
 
 .topnav {
   background-color: #333;
